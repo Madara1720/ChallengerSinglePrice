@@ -168,7 +168,7 @@
     }
 }
 
-@media only screen and (max-height:800px){
+@media only screen and (max-height:800px) and (max-width:564px){
     .caixa__principal{
         margin: 0 1em;
     }
@@ -194,7 +194,7 @@
     }
 }
 
-@media only screen and (max-height:709px){
+@media only screen and (max-height:709px) and (max-width:564px){
     .caixa__principal{
         margin: 0 1em;
     }
